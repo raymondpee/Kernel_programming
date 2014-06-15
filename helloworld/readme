@@ -1,0 +1,3 @@
+after you compile you might see no difference, but type in the 
+cat /var/log/syslog
+and check the result see :)
